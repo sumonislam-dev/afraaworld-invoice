@@ -36,3 +36,6 @@ yarn-error.log
 
 # Salesforce CLI local org cache
 /.sf
+
+# PHP language server cache
+/storage/framework/lsp-*.php
